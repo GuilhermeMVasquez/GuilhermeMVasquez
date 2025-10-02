@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMVasquez&theme=solarized-light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- [![](https://visitcount.itsvg.in/api?id=GuilhermeMVasquez&icon=0&color=12)](https://visitcount.itsvg.in) -->
+[![](https://visitcount.itsvg.in/api?id=GuilhermeMVasquez&icon=0&color=12)](https://visitcount.itsvg.in)
